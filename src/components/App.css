@@ -1,0 +1,14 @@
+.TextEditor-container {
+    height: 50vh;
+    margin-top: 20px;
+    padding: 0 20px;
+}
+
+.TextEditor-field {
+    height: 60%;
+    overflow: auto;
+}
+
+.TextEditor-toolbar {
+    float: inline-end;
+}
